@@ -1,0 +1,11 @@
+# flutter_lint.yaml
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Add your desired lint rules here
+    # Example rule: avoid_returning_null_for_void
+    avoid_returning_null_for_void: true
+
+    # Add more Flutter lint rules as needed
